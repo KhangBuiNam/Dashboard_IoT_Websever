@@ -263,7 +263,7 @@ button:hover {
     display: none;
   }
   .navbar__btn {
-    background-color: var(--gray);
+    background-color: var(--green);
   }
 }
 
@@ -276,6 +276,7 @@ button:hover {
 }
 
 #dashboard {
+  text-decoration: none;
 }
 
 .banner {
