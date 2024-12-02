@@ -436,6 +436,7 @@ button:hover {
   height: 100%;
   align-items: center;
 }
+
 #graph iframe {
   position: relative;
   text-align: center;
